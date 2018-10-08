@@ -1,2 +1,2 @@
-# shortcourse_introduction_rs
-This repository contains software material to be used during the course of Introduction to Recommender Systems
+# Short Course on introduction to Recommender Systems
+This repository contains the software material to be used during the course of Introduction to Recommender Systems.
